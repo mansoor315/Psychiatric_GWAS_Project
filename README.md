@@ -1,4 +1,4 @@
-# GWAS, eQTL, and RNA-Seq Integration for Variant Prioritization
+# RegAtlas: A Calibrated Multi-Omics Framework for post-GWAS Regulatory Inference Across Psychiatric Disorders
 
 This project provides a configurable machine learning pipeline to integrate data from GWAS, eQTL, and RNA-seq datasets to model and prioritize genetic variants associated with complex diseases.
 
