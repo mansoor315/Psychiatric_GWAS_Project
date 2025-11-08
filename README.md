@@ -15,8 +15,8 @@ The script trains, evaluates, and interprets two models (a Multi-Layer Perceptro
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-    cd YOUR_REPOSITORY
+    git clone [git clone https://github.com/mansoor315/Psychiatric_GWAS_Project.git]
+cd Psychiatric_GWAS_Project
     ```
 
 2.  Install the required dependencies (it's recommended to use a virtual environment):
