@@ -1,0 +1,13 @@
+# Ignore results files
+results_*/
+results_clean/
+results_R/
+
+# Ignore big data files in the data folder
+data/*.csv
+
+# Ignore system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
